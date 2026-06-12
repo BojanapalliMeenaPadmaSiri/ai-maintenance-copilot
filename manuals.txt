@@ -1,0 +1,11 @@
+Pump Maintenance Manual
+
+High vibration may indicate bearing wear.
+
+Temperature above 85°C indicates overheating.
+
+Oil leakage may be caused by damaged seals.
+
+Replace damaged seals immediately.
+
+Inspect bearings every 6 months.
